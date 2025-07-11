@@ -280,5 +280,9 @@ header{
     color: #4E47FF;
 }
 
+div ul li{
+    text-decoration: none;
+}
+
 
     
