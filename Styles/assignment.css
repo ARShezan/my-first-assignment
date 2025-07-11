@@ -9,6 +9,12 @@
   
 }
 
+body{
+    max-width: 1700px;
+    background-color: #f9fafb;
+    
+}
+
 nav{
     display: flex;
     justify-content: space-between;
@@ -109,8 +115,8 @@ header{
 
 .third{
     display: flex;
-    gap: 20px;
-    justify-content:space-around;
+     justify-content:space-around;
+    padding-bottom: 50px;
     
 }
 
@@ -132,3 +138,144 @@ header{
     font-size: 20px;
     margin-top: 0;
 }
+
+.fourth-section{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px 150px 200px;
+    gap: 10pxpx;
+}
+
+.fourth-title{
+    font-size: 96px;
+    max-width: 500px;
+    align-content: center;
+}
+
+.time{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+
+
+
+.items-input{
+    background-color:#FFFFFF;
+    border: 2px solid #D6DDED ;
+    border-radius: 10px;
+    padding: 20px ;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.button-secondary{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 8px;
+    height: 70px;
+    align-items: center;
+    margin-top: 10px;
+    padding-left: 252px;
+    padding-right: 252px; }
+
+
+    /* hhhhhhhhhhhh */
+
+
+.fifth-section{
+    width: 1350px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-bottom: 150px;
+    
+}
+
+
+
+.fifth-title{
+    display: flex;
+    justify-content: center;
+    margin: 10px px 50px ;
+    padding-bottom: 0px;
+    font-size: 38px;
+    color: #252432;
+    
+}
+
+.new-fifth{
+    color: #000000;
+    font-size: 35px;
+    margin-bottom: 0;
+    margin-bottom: 10px;
+    
+}
+
+.old-fifth{
+    font-size: 25px;
+    margin-top: 0;
+    max-width: 400px;
+}
+
+.review1{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.review2{
+    font-size: 20px;
+    color: #757575;
+}
+
+.review3{
+    font-size: 20px;
+    margin-top: 0px;
+    color:#B3B3B3;
+   
+}
+
+.fifth1{
+    display: flex;
+    /* border: 2px solid black; */
+    max-width:350px;
+    background-color: #FFFFFF;
+    padding-bottom: 50px;
+    box-shadow: 5px 5px 2px #B3B3B3;
+    padding: 10px;
+    
+}
+
+.fifth2{
+    
+    max-width:350px;
+    background-color: #FFFFFF;
+    padding-bottom: 50px;
+    box-shadow: 5px 5px 2px #B3B3B3;
+    padding: 10px;
+    
+}
+.fifth3{
+    
+    max-width:350px;
+    background-color: #FFFFFF;
+    padding-bottom: 50px;
+    box-shadow: 5px 5px 2px #B3B3B3;
+    padding: 10px;
+    
+}
+
+.all{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+    
