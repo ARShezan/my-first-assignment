@@ -1,0 +1,134 @@
+
+
+.inter-normal{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  color: #4E47FF;
+  font-style: normal;
+  align-items: center;
+  
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 150px 0 150px;
+    
+      
+}
+
+
+
+.button-primary{
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 8px;
+    height: 70px;
+    align-items: center;
+    margin-top: 25px;
+    
+}
+
+nav a, .button-primary{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 12px 36px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+.title{
+    font-size: 34px;
+    font-weight: 600;
+}
+
+
+header{
+    background-image: url(../Assets/Hero-bg.png);
+    
+}
+
+.description{
+    color: #252432;
+    margin: 310px 250px 200px 250px;
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 150px;
+    margin-bottom: 150px;
+}
+
+.button-primary{
+    align-content: center;
+}
+
+.para-description{
+    margin-bottom: 20px;
+}
+
+.second-portion{
+    display: flex;
+    gap: 350px;
+    justify-content: center;
+    margin-bottom: 200px;
+}
+
+.second-title{
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.para{
+    color: #252432;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.first-photo{
+    border: none;
+    border-radius: 20px;
+}
+.second-portion{
+    margin: 100px 150px 100px 150px;
+}
+.second{
+    align-content: center;
+}
+
+.third-section{
+    background-color: #d5d4ffdc ;
+    width: 1350px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-bottom: 150px;
+    
+}
+
+.third{
+    display: flex;
+    gap: 20px;
+    justify-content:space-around;
+    
+}
+
+.third-title{
+    display: flex;
+    justify-content: center;
+    margin: 10px px 50px ;
+    font-size: 38px;
+    color: #252432;
+}
+
+.new{
+    color: #4E47FF;
+    font-size: 80px;
+    margin-bottom: 0;
+}
+
+.old{
+    font-size: 20px;
+    margin-top: 0;
+}
