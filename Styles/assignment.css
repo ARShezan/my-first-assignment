@@ -258,6 +258,49 @@ header{
     display: flex;
     gap: 50px;
     justify-content: center;
+    margin-bottom: 110px;
 }
+
+.button-third{
+
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 15px;
+    height: 50px;
+    align-items: center;
+    margin-top: 10px;
+    cursor: pointer;
+    padding-left: 80px;
+    padding-right: 80px; 
+    margin-bottom: 20px;
+}
+
+.focus-template{
+   text-align: center;
+}
+
+.focus-template h3{
+   font-size: 70px;
+   margin-bottom: 0px;
+}
+
+.focus-template p{
+   font-size: 20px;
+   margin-bottom: 0px;
+   margin-bottom: 20px;
+}
+
+.photo-four img{
+
+    border-radius: 30px;
+    height: 400px;
+    width: 800px;
+
+}
+
+
 
     
