@@ -144,7 +144,7 @@ header{
     display: flex;
     justify-content: space-between;
     margin: 0 150px 150px 200px;
-    gap: 10pxpx;
+    gap: 40px;
 }
 
 .fourth-title{
